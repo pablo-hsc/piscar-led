@@ -1,5 +1,8 @@
 ### 💡 Piscar LED
 
-Seu primeiro projeto no Arduino: fazer um LED acender e apagar automaticamente em intervalos de 1s.  
+Fzer um LED acender e apagar automaticamente em intervalos de .5s.
 
-Aqui você aprende o conceito básico de **saída digital**, que é a base para controlar qualquer componente eletrônico.
+**Conhecimentos Adiquiridos**
+
+- Saída digital
+- Fazer os leds piscarem a cada tempo
